@@ -2,6 +2,7 @@ body {
     background-image: url('background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    color: rgb(247, 194, 21);
 }
 
 #score {
